@@ -1,0 +1,42 @@
+.controls {
+  padding: 1em;
+  padding-top: 25px; /* match top of script page edge */
+  color: #666;
+}
+
+.controls h1 {
+  margin-top: 0;
+  text-transform: uppercase;
+}
+
+.properties {
+  margin-bottom: 1em;
+}
+
+.button {
+  appearance: none;
+  width: 100%;
+  border: 0;
+  border-radius: 4px;
+  padding: 1em;
+  background-color: #4455aa;
+  color: white;
+  font-size: 16px;
+  font-family: 'Source Sans Pro';
+  cursor: pointer;
+}
+
+.file-status {
+  font-weight: 600;
+  text-transform: uppercase;
+  color: #bbb6b7;
+  margin-top: 1em;
+}
+
+.file-status-good {
+  color: #666;
+}
+
+.file-status p {
+  margin: 0;
+}
